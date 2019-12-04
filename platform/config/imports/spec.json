@@ -9,6 +9,15 @@
     "formats": ["websites","email","stories", "ads"]
   },
   {
+    "title": "Contributing",
+    "order": 2,
+    "repo": "ampproject/amphtml",
+    "from": "contributing/contributing-code.md",
+    "to": "community/contributing-code.md",
+    "toc": true,
+    "formats": ["websites","email","stories", "ads"]
+  },
+  {
     "title": "AMP HTML Specification",
     "order": 3,
 		"repo": "ampproject/amphtml",
